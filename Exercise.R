@@ -1,7 +1,7 @@
 --------------------------------------------------Exercise 3--------------------------------------------------------------
   # Importing libraries
   
-  library(data.table)
+library(data.table)
 library(xts)
 library(quantmod)
 library(wooldridge)
