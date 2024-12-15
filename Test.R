@@ -1,7 +1,7 @@
 week <- c('Sunday',
-          'Monday',
+          'Mnday',
           'Tuesday',
-          'Wednesday',
+          'Wed',
           'Thursday',
           'Friday',
           'Saturday')
